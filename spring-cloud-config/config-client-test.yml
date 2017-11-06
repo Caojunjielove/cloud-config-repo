@@ -1,4 +1,4 @@
 
 init:
-  netspeed: 10000
+  netspeed: 1000
   maxcardbalance: 10000 
