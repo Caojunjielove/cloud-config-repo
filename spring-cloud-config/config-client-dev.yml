@@ -1,0 +1,3 @@
+init:
+  netspeed: 100
+  maxcardbalance: 1000 
